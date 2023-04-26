@@ -4,5 +4,8 @@
 
 body {
   background: url('images/background.png');
+  border-radius: 0;
   color: white;
+
+
 }
